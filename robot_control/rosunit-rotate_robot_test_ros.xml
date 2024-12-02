@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="1" time="0.387"><testcase classname="__main__.TestRobotControl" name="test_publish_cmd_vel" time="0.3870" /><system-out>&lt;![CDATA[
+('/robot_control_node_1599_1733105368927', 'Angular Speed: 1.0')
+
+]]&gt;</system-out><system-err>&lt;![CDATA[
+
+]]&gt;</system-err></testsuite>
